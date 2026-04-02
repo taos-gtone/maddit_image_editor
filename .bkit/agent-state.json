@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "enabled": false,
+  "teamName": "",
+  "feature": "image-editor",
+  "pdcaPhase": "report",
+  "orchestrationPattern": "leader",
+  "ctoAgent": "opus",
+  "startedAt": "2026-04-02T14:24:58.830Z",
+  "lastUpdated": "2026-04-02T14:26:25.661Z",
+  "teammates": [],
+  "progress": {
+    "totalTasks": 0,
+    "completedTasks": 0,
+    "inProgressTasks": 0,
+    "failedTasks": 0,
+    "pendingTasks": 0
+  },
+  "recentMessages": [],
+  "sessionId": "86332f8b-d6b7-4558-b4ad-d4a2efcc37f0"
+}
